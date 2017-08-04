@@ -1,0 +1,10 @@
+  PID TTY          TIME CMD
+18403 pts/18   00:00:00 bash
+18428 pts/18   00:00:00 subprocesses
+18429 pts/18   00:00:00 subprocesses
+18430 pts/18   00:00:00 subprocesses
+18431 pts/18   00:00:00 subprocesses
+18432 pts/18   00:00:00 subprocesses
+18433 pts/18   00:00:00 subprocesses
+18434 pts/18   00:00:00 subprocesses
+18436 pts/18   00:00:00 ps

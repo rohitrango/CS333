@@ -1,0 +1,7 @@
+Excercise 2
+--------------
+
+*	Understand the difference between VmSize and VmRSS.
+*	Run all the programs the directory one by one.
+*	Find out VmSize & VmRSS of each program before the program terminates.
+

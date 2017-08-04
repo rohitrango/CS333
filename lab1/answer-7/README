@@ -1,0 +1,17 @@
+Exercise 7
+-----------
+
+*	If you are running this program in SL2(Student Lab 2) machines 
+	login with userid labuser or you can run this program on a 
+	machine with the local disk. Eg: Your laptop.
+
+*	This programs requires 5GB of space in your hard disk.
+*	Run the script 'script.sh'
+*	It will create 5000 copies of the file foo.pdf into the subdirectory files 
+	starting from foo1.pdf to foo5000.pdf.
+*	Run the programs disk1.c and disk2.c.
+*	Identify disk io utilization.
+
+
+
+
